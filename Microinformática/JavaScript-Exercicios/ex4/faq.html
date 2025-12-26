@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FAQ Simples (Accordion)</title>
+    
+    <link rel="stylesheet" href="style.css"> 
+    
+    <style>
+        /* A CLASSE ESSENCIAL: Faz o conteúdo desaparecer */
+        .escondido {
+            display: none;
+        }
+        
+        /* Estilos adicionais para melhorar a usabilidade */
+        .faq-pergunta {
+            background-color: #333;
+            color: white;
+            padding: 10px;
+            cursor: pointer; /* Indica que é clicável */
+            margin-top: 15px;
+            border-radius: 5px;
+        }
+
+        .faq-resposta {
+            border: 1px solid #ccc;
+            padding: 15px;
+            background-color: #f9f9f9;
+            border-radius: 0 0 5px 5px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>FAQ Simples</h1>
+        
+        <div class="faq-item">
+            <h3 class="faq-pergunta" id="pergunta1">O que é o DOM?</h3>
+            
+            <div class="faq-resposta escondido" id="resposta1">
+                <p>O DOM (Document Object Model) é uma interface de programação para documentos HTML e XML. Ele representa a página para que programas possam mudar a estrutura, estilo e conteúdo do documento. É a ponte entre o seu HTML e o JavaScript.</p>
+            </div>
+        </div>
+        
+    </div>
+
+    <script src="faq.js"></script>
+</body>
+</html>
