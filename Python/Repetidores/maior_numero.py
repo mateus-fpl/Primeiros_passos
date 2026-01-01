@@ -11,3 +11,4 @@ media = sum(numeros)/len(numeros)
 
 print(f"A soma dos números é: {soma:.2f}")
 print(f"A média é: {media:.2f}")
+

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 while True:
     nome = input("Escreva seu nome: ")
     if len(nome) > 3:
@@ -31,7 +30,6 @@ print("-" * 20)
 print(f"Seu nome é: {nome}")
 print(f"Sua idade é: {idade}")
 print(f"Seu salário é: R$ {salario:.2f}")
-=======
 while True:
     nome = input("Escreva seu nome: ")
     if len(nome) > 3:
@@ -64,5 +62,4 @@ print("-" * 20)
 print(f"Seu nome é: {nome}")
 print(f"Sua idade é: {idade}")
 print(f"Seu salário é: R$ {salario:.2f}")
->>>>>>> 0a2dc2bda8bc232d29d833cf08059743a4a48b3a
 print(f"Seu estado civil é: {estado_civil}")
