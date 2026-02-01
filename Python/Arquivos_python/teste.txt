@@ -1,0 +1,5 @@
+Esrevendo dados em um novo arquivo de texto.
+escrevendo 
+um 
+novo 
+texto
