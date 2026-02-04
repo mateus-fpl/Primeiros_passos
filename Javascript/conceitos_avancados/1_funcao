@@ -1,0 +1,11 @@
+function falarMeuNome(){
+    console.log('Meu nome é Mateus')
+}
+
+function falarMeuNomeCompleto(falarMeuNome){
+    falarMeuNome
+    console.log('Mateus de Farias Paes Landim')
+    return falarMeuNome
+}
+
+falarMeuNomeCompleto(falarMeuNome)()
