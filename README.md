@@ -21,10 +21,10 @@ Este diretório está organizado pelas linguagens que marcaram o meu ponto de pa
 
 | Pasta | Descrição | Status |
 | :--- | :--- | :--- |
-| **Java** | Exercícios de sintaxe e lógica de programação. | ✅ Concluído / Em revisão |
+| **Java** | Exercícios de sintaxe e lógica de programação. |  🚀 Em progresso |
 | **Python** | Fundamentos da linguagem e scripts iniciais. | 🚀 Em progresso |
 | **Javascript** | Manipulação de lógica e introdução ao front-end. | 🚀 Em progresso |
-| **Web** | Estruturação com HTML5 e estilização básica com CSS3. | ✅ Concluído |
+| **Web** | Estruturação com HTML5 e estilização básica com CSS3. |  🚀 Em progresso |
 
 ---
 
