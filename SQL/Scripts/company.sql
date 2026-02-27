@@ -4,8 +4,11 @@ use company_constraints;
 -- restrição atribuída a um documento --
 -- create domain D_num as int check(D_num> 0 and D_num<21);--
 
+<<<<<<< HEAD
 select * from works_on;
 
+=======
+>>>>>>> 50116d0ff155e9c8ae5c4e292363b9a9127c67e1
 create table if not exists employee(
 	Fname varchar(15) not null,
 	Minit char,
@@ -23,8 +26,11 @@ create table if not exists employee(
 
 desc employee; 
 
+<<<<<<< HEAD
 ALTER TABLE departament ADD COLUMN Dept_create_date date;
 
+=======
+>>>>>>> 50116d0ff155e9c8ae5c4e292363b9a9127c67e1
 create table if not exists departament (
 	Dname varchar(15) not null,
     Dnumber int not null,
