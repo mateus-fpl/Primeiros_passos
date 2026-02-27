@@ -1,0 +1,12 @@
+{
+    "python-envs.pythonProjects": [],
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Northwind",
+            "database": "\"C:\\Users\\Amanda Nazaré\\Downloads\\2-Northwind_small.sqlite\""
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
