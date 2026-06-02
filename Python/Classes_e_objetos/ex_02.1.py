@@ -9,7 +9,7 @@ class pessoa :
         return self.peso
 
     def emagrecer(self,quilos):
-        self. peso = self.peso - quilos
+        self.peso = self.peso - quilos
         return self.peso
     
 homem = pessoa("Mateus", 33, 90)
