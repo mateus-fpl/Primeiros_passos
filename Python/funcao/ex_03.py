@@ -1,8 +1,13 @@
-def somar_tres(a,b,c):
-    resultado = a + b + c
-    return resultado
-
-soma = somar_tres(300,52,69)
-soma2 = somar_tres(12,45,11)
-print(soma)
-print(soma2)
+def positivo_negativo(N):
+    if N > 0:
+        return "P"
+    else:
+        return "N"
+    
+valor_digitado = int(input("Número: "))
+valor_digitado2 = int(input("Número: "))
+    
+etiqueta = positivo_negativo(valor_digitado)
+etiqueta2 = positivo_negativo(valor_digitado2)
+print(etiqueta)
+print(etiqueta2)

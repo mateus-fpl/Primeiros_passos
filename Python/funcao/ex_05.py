@@ -1,15 +1,8 @@
-def soma_imposto (custo, taxa_imposto):
-    valor_final = custo + (custo * (taxa_imposto/100))
-    return valor_final
+def quantidade_digitos(N):
+    digitos = len(str(N))
+    return digitos
 
-preco = float(input("Digite o preço da compra: "))
-taxa = float(input("Digite o valor da taxa: "))
+numero = input("Digite um número: ")
+contagem = quantidade_digitos(numero)
 
-preco2 = float(input("Digite o preço da compra: "))
-taxa2 = float(input("Digite o valor da taxa: "))
-
-preco_final = soma_imposto(preco, taxa)
-preco_final2 = soma_imposto(preco2, taxa2)
-
-print (preco_final)
-print (preco_final2)
+print(f"O número {numero} possuí {contagem} dígitos")
