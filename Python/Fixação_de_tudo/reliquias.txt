@@ -1,0 +1,4 @@
+REL-001;Incinerador;Estável
+REL-002;Cartucho Experimental;Perigoso
+REL-003;Apito Branco Artificial;Perigoso
+REL-004;Ovo do Desejo;Estável

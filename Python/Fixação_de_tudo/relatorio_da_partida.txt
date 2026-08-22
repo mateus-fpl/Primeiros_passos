@@ -1,0 +1,136 @@
+Guerreiro usou a habilidade especial em Fantasma Egípcio!
+Vida atual do Fantasma Egípcio: 3400
+Robô usou a habilidade especial em Fantasma Egípcio!
+Vida atual do Fantasma Egípcio: 3300
+Guerreiro usou a habilidade especial em Fantasma Egípcio!
+Vida atual do Fantasma Egípcio: 3200
+Fantasma Egípcio atacou Guerreiro!
+Vida atual de Guerreiro: 250
+Guerreiro usou a habilidade especial em Fantasma Egípcio!
+Vida atual do Fantasma Egípcio: 3100
+Robô usou a habilidade especial em Fantasma Egípcio!
+Vida atual do Fantasma Egípcio: 3000
+Guerreiro usou a habilidade especial em Fantasma Egípcio!
+Vida atual do Fantasma Egípcio: 2900
+Fantasma Egípcio atacou Guerreiro!
+Vida atual de Guerreiro: 200
+Guerreiro usou a habilidade especial em Fantasma Egípcio!
+Vida atual do Fantasma Egípcio: 2800
+Robô usou a habilidade especial em Fantasma Egípcio!
+Vida atual do Fantasma Egípcio: 2700
+Guerreiro usou a habilidade especial em Fantasma Egípcio!
+Vida atual do Fantasma Egípcio: 2600
+Fantasma Egípcio usou habilidade em Guerreiro!
+Vida atual de Guerreiro: 130
+Guerreiro atacou Fantasma Egípcio!
+Vida atual do Fantasma Egípcio: 2560
+Robô atacou Fantasma Egípcio!
+Vida atual do Fantasma Egípcio: 2525
+Mago atacou Fantasma Egípcio!
+Vida atual do Fantasma Egípcio: 2515
+Fantasma Egípcio atacou Guerreiro!
+Vida atual de Guerreiro: 80
+Emul usou sua habilidade de cura!
+Ceecrue usou sua habilidade de cura!
+Robô atacou Fantasma Egípcio!
+Vida atual do Fantasma Egípcio: 2460
+Fantasma Egípcio atacou Mago!
+Vida atual de Mago: 240
+Robô atacou Fantasma Egípcio!
+Vida atual do Fantasma Egípcio: 2405
+Mago atacou Fantasma Egípcio!
+Vida atual do Fantasma Egípcio: 2375
+Robô atacou Fantasma Egípcio!
+Vida atual do Fantasma Egípcio: 2320
+Fantasma Egípcio usou habilidade em Guerreiro!
+Vida atual de Guerreiro: 50
+Robô atacou Fantasma Egípcio!
+Vida atual do Fantasma Egípcio: 2265
+Guerreiro atacou Fantasma Egípcio!
+Vida atual do Fantasma Egípcio: 2205
+Mago atacou Fantasma Egípcio!
+Vida atual do Fantasma Egípcio: 2175
+Fantasma Egípcio atacou Guerreiro!
+Vida atual de Guerreiro: 0
+Guerreiro atacou Fantasma Egípcio!
+Vida atual do Fantasma Egípcio: 2115
+Robô atacou Fantasma Egípcio!
+Vida atual do Fantasma Egípcio: 2060
+Mago atacou Fantasma Egípcio!
+Vida atual do Fantasma Egípcio: 2030
+Fantasma Egípcio atacou Mago!
+Vida atual de Mago: 190
+Emul usou sua habilidade de cura!
+Ceecrue usou sua habilidade de cura!
+Robô atacou Fantasma Egípcio!
+Vida atual do Fantasma Egípcio: 1955
+Fantasma Egípcio usou habilidade em Mago!
+Vida atual de Mago: 160
+Robô atacou Fantasma Egípcio!
+Vida atual do Fantasma Egípcio: 1880
+Mago atacou Fantasma Egípcio!
+Vida atual do Fantasma Egípcio: 1830
+Guerreiro atacou Fantasma Egípcio!
+Vida atual do Fantasma Egípcio: 1750
+Fantasma Egípcio atacou Robô!
+Vida atual de Robô: 280
+Robô atacou Fantasma Egípcio!
+Vida atual do Fantasma Egípcio: 1675
+Mago atacou Fantasma Egípcio!
+Vida atual do Fantasma Egípcio: 1625
+Robô atacou Fantasma Egípcio!
+Vida atual do Fantasma Egípcio: 1550
+Fantasma Egípcio atacou Robô!
+Vida atual de Robô: 230
+Guerreiro atacou Fantasma Egípcio!
+Vida atual do Fantasma Egípcio: 1470
+Guerreiro usou a habilidade especial em Fantasma Egípcio!
+Vida atual do Fantasma Egípcio: 1470
+Robô atacou Fantasma Egípcio!
+Vida atual do Fantasma Egípcio: 1395
+Fantasma Egípcio usou habilidade em Robô!
+Vida atual de Robô: 160
+Robô atacou Fantasma Egípcio!
+Vida atual do Fantasma Egípcio: 1320
+Ceecrue usou sua habilidade de cura!
+Robô atacou Fantasma Egípcio!
+Vida atual do Fantasma Egípcio: 1225
+Fantasma Egípcio atacou Mago!
+Vida atual de Mago: 110
+Guerreiro atacou Fantasma Egípcio!
+Vida atual do Fantasma Egípcio: 1125
+Robô atacou Fantasma Egípcio!
+Vida atual do Fantasma Egípcio: 1030
+Mago atacou Fantasma Egípcio!
+Vida atual do Fantasma Egípcio: 960
+Fantasma Egípcio atacou Mago!
+Vida atual de Mago: 60
+Robô atacou Fantasma Egípcio!
+Vida atual do Fantasma Egípcio: 865
+Robô atacou Fantasma Egípcio!
+Vida atual do Fantasma Egípcio: 770
+Robô atacou Fantasma Egípcio!
+Vida atual do Fantasma Egípcio: 675
+Fantasma Egípcio usou habilidade em Robô!
+Vida atual de Robô: 90
+Emul usou sua habilidade de cura!
+Guerreiro atacou Fantasma Egípcio!
+Vida atual do Fantasma Egípcio: 575
+Mago atacou Fantasma Egípcio!
+Vida atual do Fantasma Egípcio: 505
+Fantasma Egípcio atacou Mago!
+Vida atual de Mago: 50
+Guerreiro atacou Fantasma Egípcio!
+Vida atual do Fantasma Egípcio: 405
+Guerreiro atacou Fantasma Egípcio!
+Vida atual do Fantasma Egípcio: 305
+Robô atacou Fantasma Egípcio!
+Vida atual do Fantasma Egípcio: 210
+Fantasma Egípcio atacou Robô!
+Vida atual de Robô: 80
+Guerreiro atacou Fantasma Egípcio!
+Vida atual do Fantasma Egípcio: 110
+Robô atacou Fantasma Egípcio!
+Vida atual do Fantasma Egípcio: 15
+Mago atacou Fantasma Egípcio!
+Vida atual do Fantasma Egípcio: -55

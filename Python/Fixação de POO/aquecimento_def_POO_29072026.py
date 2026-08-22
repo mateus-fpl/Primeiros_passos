@@ -7,7 +7,6 @@ def calcular_dano_nen(nome,aura, forca, defendeu_com_ken):
         print(f"{nome} tem {aura} de aura, força {forca} e seu ataque causou dano de {dano}")
 
     return dano
-    print(f"O lutador tem {aura} de aura, força {forca} e seu ataque causou dano de {dano}")
 
 lutador = calcular_dano_nen("Gon",10,100,True)
 

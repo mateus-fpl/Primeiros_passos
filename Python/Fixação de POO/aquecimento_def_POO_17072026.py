@@ -1,23 +1,23 @@
-# def calcular_dano(tipo_ataque, tipo_defensor,dano_base):
+def calcular_dano(tipo_ataque, tipo_defensor,dano_base):
 
-#     if tipo_ataque == "fogo" and tipo_defensor == "planta":
-#         dano_base = dano_base * 2
-#     elif tipo_ataque == "planta" and tipo_defensor == "água":
-#         dano_base = dano_base * 2
-#     elif tipo_ataque == "água" and tipo_defensor == "fogo":
-#         dano_base = dano_base * 2
-#     elif tipo_ataque == tipo_defensor:
-#         dano_base = dano_base * 0.5
-#     else:
-#         dano_base
-#     return dano_base
+    if tipo_ataque == "fogo" and tipo_defensor == "planta":
+        dano_base = dano_base * 2
+    elif tipo_ataque == "planta" and tipo_defensor == "água":
+        dano_base = dano_base * 2
+    elif tipo_ataque == "água" and tipo_defensor == "fogo":
+        dano_base = dano_base * 2
+    elif tipo_ataque == tipo_defensor:
+        dano_base = dano_base * 0.5
+    else:
+        dano_base
+    return dano_base
 
-# batalha1 = calcular_dano("fogo", "planta", 50)
-# print(f"O total do dano foi {batalha1}")
-# batalha2 = calcular_dano("água","água",40)
-# print(f"O total do dano foi {batalha2}")
-# batalha3 = calcular_dano("planta","fogo",60)
-# print(f"O total do dano foi {batalha3}")        
+batalha1 = calcular_dano("fogo", "planta", 50)
+print(f"O total do dano foi {batalha1}")
+batalha2 = calcular_dano("água","água",40)
+print(f"O total do dano foi {batalha2}")
+batalha3 = calcular_dano("planta","fogo",60)
+print(f"O total do dano foi {batalha3}")        
     
 
 class Pokemon:

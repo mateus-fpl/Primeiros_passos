@@ -1,0 +1,4 @@
+Plaintext
+INC-001;Shibuya;Grau Especial;Pendente
+INC-002;Shinjuku;1º Grau;Resolvido
+INC-003;Roppongi;2º Grau;Pendente

@@ -1,0 +1,3 @@
+INC-001;Shibuya;Grau Especial;Em Andamento
+INC-002;Shinjuku;1º Grau;Resolvido
+INC-003;Roppongi;2º Grau;Em Andamento
