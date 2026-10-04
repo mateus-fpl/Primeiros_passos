@@ -1,0 +1,7 @@
+order_id,cliente,data_pedido,fases,horas,taxas_horarias
+1,Alpha Corp,2024-01,"['planejamento', 'desenvolvimento', 'teste']","[10, 50, 20]","[100, 150, 120]"
+2,Beta Inc,2024-01,['planejamento'],[15],[110]
+3,Gamma LLC,2024-02,"['desenvolvimento', 'teste']","[40, 25]","[140, 130]"
+4,Delta Ltd,2024-02,"['planejamento', 'desenvolvimento']","[20, 30]","[100, 140]"
+5,Epsilon SA,2024-03,"['planejamento', 'desenvolvimento', 'teste']","[30, 40, 20]","[120, 160, 110]"
+6,Zeta Co,2024-03,"['planejamento', 'desenvolvimento', 'teste']","[10, 50, 20]","[100, 150, 120]"
